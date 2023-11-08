@@ -1,2 +1,3 @@
 # dronedetect
-https://chat.openai.com/g/g-2fkFE8rbu-dall-e/c/fe97ed51-565d-4df7-acba-42a477f76ec5
+
+![dronedetect](https://github.com/innovativethinker/dronedetect/assets/127458338/fe4aead7-983f-4d6c-b278-6a4d82054427)
