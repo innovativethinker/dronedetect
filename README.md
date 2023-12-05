@@ -17,3 +17,8 @@ YOLO
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/9a4ec588-936e-4449-b486-b17ad7b07c57)
 
 
+Wanb.ai
+
+![image](https://github.com/innovativethinker/dronedetect/assets/127458338/168c1067-78b2-4572-97db-82c57042c935)
+
+
