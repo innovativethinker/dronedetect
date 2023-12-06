@@ -23,3 +23,6 @@ Wanb.ai
 
 https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scrollTo=WANJibeUNghZ
 
+Alexnet Slides
+
+https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scrollTo=h7MhH8hrR3AE
