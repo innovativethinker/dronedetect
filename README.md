@@ -26,3 +26,7 @@ https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scroll
 Alexnet Slides
 
 https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scrollTo=h7MhH8hrR3AE
+![birdfeaturemap](https://github.com/innovativethinker/dronedetect/assets/127458338/b2dca792-d205-4f94-8580-3c762f7ab62f)
+![birdfeaturemapmulti](https://github.com/innovativethinker/dronedetect/assets/127458338/e892b2c5-d1fe-44d3-b4ad-9437642d6367)
+
+https://colab.research.google.com/drive/1_oQONAXyIiz4Oz3tq800MIdTNESp69Wa
