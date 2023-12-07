@@ -19,7 +19,8 @@ YOLO
 A vs B
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/f0c1aa21-e662-4b3c-a01c-e062fca95c15)
 
-![image](https://github.com/innovativethinker/dronedetect/assets/127458338/df5eb03d-f4c8-4175-8b43-7cb8c858bfac)
+![image](https://github.com/innovativethinker/dronedetect/assets/127458338/aaa9687f-6df0-4cf6-99b0-7dcdfb52eaa4)
+
 
 
 Wanb.ai
