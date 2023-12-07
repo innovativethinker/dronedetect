@@ -46,6 +46,7 @@ https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scroll
 
 Alexnet Slides
 
+
 Convolutional Layers: In CNNs like AlexNet, the network contains multiple convolutional layers. These layers consist of a set of learnable filters (also called kernels) that slide or convolve across the input image.
 
 Feature Extraction: As these filters move across the input image, they perform element-wise multiplications and summations, effectively learning to detect different features in the image. Each filter learns to recognize specific patterns, such as edges, textures, or more complex structures.
@@ -55,6 +56,7 @@ Feature Maps: The output of each filter after it processes the input image is ca
 Stacking Filters: In each convolutional layer, multiple filters are applied in parallel, resulting in a set of feature maps. These maps are stacked together to create the output of that layer.
 
 Hierarchical Features: As you move deeper into the network (i.e., deeper convolutional layers), the learned features become more abstract and complex. Lower layers might detect basic features like edges, while deeper layers might recognize higher-level features like object parts or even entire objects.
+
 
 https://colab.research.google.com/drive/1mQIAgrmxTHnSeQtXtMso1fmg5StLT1jR#scrollTo=h7MhH8hrR3AE
 ![birdfeaturemap](https://github.com/innovativethinker/dronedetect/assets/127458338/b2dca792-d205-4f94-8580-3c762f7ab62f)
