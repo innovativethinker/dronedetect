@@ -19,11 +19,14 @@ Real-world Applications: YOLO has been successfully used in various real-world a
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/9a4ec588-936e-4449-b486-b17ad7b07c57)
 
 A vs B
+
+To keep it simple I chose a blank sky and a drone in the sky to train alexnet to detect the drones. 
+From here I can then add other possible detections in the sky such as planes or birds to target the detection of drones only.
+
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/f0c1aa21-e662-4b3c-a01c-e062fca95c15)
 
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/aaa9687f-6df0-4cf6-99b0-7dcdfb52eaa4)
 
-![blackbirds](https://github.com/innovativethinker/dronedetect/assets/127458338/066734a6-6e56-4925-9417-d02ab2efdd60)
 
 
 Wanb.ai
