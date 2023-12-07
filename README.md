@@ -16,6 +16,8 @@ YOLO
 
 Real-world Applications: YOLO has been successfully used in various real-world applications, including surveillance, security, and autonomous systems, which are areas where drone detection is crucial.
 
+Multiple Object Detection: YOLO can detect multiple objects in a single frame, which is essential when dealing with scenarios where there may be multiple drones flying simultaneously.
+
 ![image](https://github.com/innovativethinker/dronedetect/assets/127458338/9a4ec588-936e-4449-b486-b17ad7b07c57)
 
 A vs B
